@@ -1,0 +1,6 @@
+C:\Users\KIIT\Desktop\Git Exercise\Day_21\EmployeeAssignment_24\EmployeeAssignment_24\bin\Debug\EmployeeAssignment_24.dll
+C:\Users\KIIT\Desktop\Git Exercise\Day_21\EmployeeAssignment_24\EmployeeAssignment_24\bin\Debug\EmployeeAssignment_24.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Day_21\EmployeeAssignment_24\EmployeeAssignment_24\obj\Debug\EmployeeAssignment_24.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_21\EmployeeAssignment_24\EmployeeAssignment_24\obj\Debug\EmployeeAssignment_24.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_21\EmployeeAssignment_24\EmployeeAssignment_24\obj\Debug\EmployeeAssignment_24.dll
+C:\Users\KIIT\Desktop\Git Exercise\Day_21\EmployeeAssignment_24\EmployeeAssignment_24\obj\Debug\EmployeeAssignment_24.pdb
